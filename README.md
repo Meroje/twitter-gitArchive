@@ -20,3 +20,7 @@ This script is forked from [this](https://gist.github.com/2857462).
 ```
 
 __That's it, you can now call `python mytweets.py username` to start your archive.__
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Meroje/twitter-gitarchive/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
